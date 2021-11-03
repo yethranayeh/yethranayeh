@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome
+You can check out my [Portfolio Page](https://yethranayeh.github.io/)
+
+- 🌱 I’m currently learning Frontend and Shopify Theme Development
 
 <!--
 **yethranayeh/yethranayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
