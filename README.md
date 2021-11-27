@@ -17,9 +17,7 @@ One of my favorite projects that I developed is [Daily Space Palette](https://gi
 
 You can also check out my other projects on my my [Portfolio Page](https://yethranayeh.github.io/) or view my [Resume](https://yethranayeh.github.io/resume.html)
 
-- 🌱 I’m currently learning Frontend development
-  - `JavaScript`
-  - `CSS`
+- 🌱 I’m currently learning Web Development with [The Odin Project](https://www.theodinproject.com/).
 
 <!--
 **yethranayeh/yethranayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
