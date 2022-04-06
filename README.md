@@ -1,9 +1,9 @@
 # Hello!
-I am Alper, a 22 year old English Language and Literature 📚 student interested in software development 💻. Coding is a great way to turn ideas into functional, useful and tangible realities.
+I am Alper, a 23 year old English Language and Literature 📚 student interested in software development 💻. I find coding to be a great way to turn my ideas into functional, useful and tangible realities.
 
-I am particularly knowledgeable about Python, with intermediate self-taught experience in web-scraping, back-end development and database management applications (PostgreSQL, SQLite, MongoDB). 
+I am particularly interested in working with ReactJS to create fast, dynamic and intuitive web pages.
 
-I also have experience working on Front-end projects professionally and as a hobby.
+I also have some experience using Python. Especially in web-scraping (Selenium), desktop apps (PyQt), back-end development (Django) and database management applications (PostgreSQL, SQLite, MongoDB). 
 
 As a *self-taught* developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
 
