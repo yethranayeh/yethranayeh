@@ -5,7 +5,7 @@ I am particularly interested in working with ⚛ React to create fast, dynamic a
 
 I also have some experience using Python. Specifically in web-scraping (Selenium), desktop apps (PyQt), back-end development (Django) and database management applications (PostgreSQL, SQLite, MongoDB). 
 
-As a *self-taught* developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
+As a self-taught developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
 
 ---
 
@@ -15,18 +15,7 @@ As a *self-taught* developer, I try to get better at technologies that I am inte
   <br/>
   Weather App is a React application that I built using OpenWeatherMap API. It can display weather based on geolocation or user's search query.
   <br/><br/>
-  <img src="https://i.ibb.co/qyGN3x5/Screen-Shot-2022-04-22-at-12-57-37.png" alt="Weather App Screenshot" />
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://www.aktasalper.com/weather-app/" target="_blank">ideaList</a>
-  (<a href="https://github.com/yethranayeh/ideaList" target="_blank">Repo</a>)
-  <br/>
-  IdeaList is a to-do list web application that is designed with a mobile first approach 📱
-  <br/><br/>
-  <img src="https://i.ibb.co/3sSmtdx/cover.png" alt="ideaList To-Do App Image" />
+  <img src="https://i.ibb.co/zsFkp5d/Screen-Shot-2022-05-23-at-14-48-03.jpg" alt="Weather App Screenshot" />
 </p>
 
 <br/><br/>
@@ -40,23 +29,32 @@ As a *self-taught* developer, I try to get better at technologies that I am inte
   <img src="https://i.ibb.co/rZpX39B/Screenshot-2021-11-14-at-16-20-25-Daily-Space-Palette.png" alt="Daily Space Palette App Banner" />
 </p>
 
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.aktasalper.com/weather-app/" target="_blank">ideaList</a>
+  (<a href="https://github.com/yethranayeh/ideaList" target="_blank">Repo</a>)
+  <br/>
+  IdeaList is a to-do list web application that is designed with a mobile first approach 📱
+  <br/><br/>
+  <img src="https://i.ibb.co/3sSmtdx/cover.png" alt="ideaList To-Do App Image" />
+</p>
+
 ---
 
-You can also check out my other projects on my my [Portfolio Page](https://www.aktasalper.com/) or view my [Resume](https://www.aktasalper.com/resume.html)
+You can also check out my other projects on my [Portfolio](https://www.aktasalper.com/#projects) or if you'd like to know more about my skills and experiences, you can view my [Resume](https://www.aktasalper.com/resume.html)
 
 - 🌱 I’m currently learning Web Development with [The Odin Project](https://www.theodinproject.com/).
+- 🔭 Currently working on [Daily Space Palette](https://github.com/yethranayeh/daily-space-palette)
+- 📫 Contact me: [contact@aktasalper.com](mailto:contact@aktasalper.com)
 
 <!--
-**yethranayeh/yethranayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
