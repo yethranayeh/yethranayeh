@@ -3,10 +3,17 @@ I am Alper, a 23 year old English Language and Literature 📚 student intereste
 
 
 <p align="center">
-  <a href="https://github.com/yethranayeh/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" />
+<a href="https://github.com/yethranayeh/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="45%" alt="yethranayeh GitHub profile stats" />
   </a>
 </p>
+
+<p align="right">
+  <a href="https://github.com/yethranayeh/">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="yethranayeh top languages" />
+  </a>
+</p>
+
 
 I am mainly interested in working with:
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,11 +64,6 @@ As a self-taught developer, I try to get better at technologies that I am intere
 
 You can also check out my other projects on my [Portfolio](https://www.aktasalper.com/#projects) or if you'd like to know more about my skills and experiences, you can view my [Resume](https://www.aktasalper.com/resume.html)
 
-<p align="center">
-  <a href="https://github.com/yethranayeh/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning Web Development with [The Odin Project](https://www.theodinproject.com/).
 - 🔭 Currently working on [Daily Space Palette](https://github.com/yethranayeh/daily-space-palette)
