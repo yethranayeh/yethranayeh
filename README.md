@@ -1,9 +1,22 @@
 # Hello 👋
-I am Alper, a 23 year old English Language and Literature 📚 student interested in software development 💻. I find coding to be a great way to turn my ideas into functional and useful realities.
+I am Alper, a 23 year old English Language and Literature 📚 student interested in software development 💻. I find coding to be a great way to turn ideas into functional and useful realities.
 
-I am particularly interested in working with ⚛ React to create fast, dynamic and intuitive web pages.
 
-I also have some experience using Python. Specifically in web-scraping (Selenium), desktop apps (PyQt), back-end development (Django) and database management applications (PostgreSQL, SQLite, MongoDB). 
+<p align="center">
+  <a href="https://github.com/yethranayeh/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" />
+  </a>
+</p>
+
+I am mainly interested in working with:
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+I also have some experience using **Python**, with basic knowledge in
+- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) web-scraping, 
+- ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) desktop apps (PyQt), 
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white), 
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) / ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 As a self-taught developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
 
@@ -43,6 +56,12 @@ As a self-taught developer, I try to get better at technologies that I am intere
 ---
 
 You can also check out my other projects on my [Portfolio](https://www.aktasalper.com/#projects) or if you'd like to know more about my skills and experiences, you can view my [Resume](https://www.aktasalper.com/resume.html)
+
+<p align="center">
+  <a href="https://github.com/yethranayeh/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning Web Development with [The Odin Project](https://www.theodinproject.com/).
 - 🔭 Currently working on [Daily Space Palette](https://github.com/yethranayeh/daily-space-palette)
