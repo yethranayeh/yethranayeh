@@ -1,5 +1,5 @@
 # Hello 👋
-I am Alper, a 23 year old English Language and Literature 📚 student interested in software development 💻. I find coding to be a great way to turn ideas into functional and useful realities.
+I am Alper, a 23 year old English Language and Literature 📚 graduate interested in software development 💻. I find coding to be a great way to turn ideas into functional and useful realities.
 
 
 <p align="center">
