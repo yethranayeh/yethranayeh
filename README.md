@@ -1,5 +1,5 @@
 # Hello 👋
-I am Alper, a 23 year old English Language and Literature 📚 graduate interested in software development 💻. I find coding to be a great way to turn ideas into functional and useful realities.
+I am Alper, a 23 year old English Language and Literature 📚 graduate interested in software development 💻
 
 
 <p align="center">
@@ -8,7 +8,7 @@ I am Alper, a 23 year old English Language and Literature 📚 graduate interest
   </a>
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/yethranayeh/">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="yethranayeh top languages" />
   </a>
