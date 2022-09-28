@@ -1,5 +1,5 @@
 # Hello 👋
-I am Alper, a 23 year old English Language and Literature 📚 graduate interested in software development 💻
+I am Alper, a 23 year old English Language and Literature graduate 📚 interested in software development 💻
 
 
 <p align="center">
@@ -18,12 +18,6 @@ I am Alper, a 23 year old English Language and Literature 📚 graduate interest
 I am mainly interested in working with:
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-I also have some experience using **Python**, with basic knowledge in
-- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) web-scraping, 
-- ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) desktop apps (PyQt), 
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white), 
-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) / ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 As a self-taught developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
 
