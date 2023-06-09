@@ -59,17 +59,5 @@ As a self-taught developer, I try to get better at technologies that I am intere
 You can also check out my other projects on my [Portfolio](https://www.aktasalper.com/#projects) or if you'd like to know more about my skills and experiences, you can view my [Resume](https://www.aktasalper.com/resume.html)
 
 
-- 🌱 I’m currently learning Web Development with [The Odin Project](https://www.theodinproject.com/).
-- 🔭 Currently working on [Daily Space Palette](https://github.com/yethranayeh/daily-space-palette)
-- 📫 Contact me: [contact@aktasalper.com](mailto:contact@aktasalper.com)
-
-<!--
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working at [Etstur](https://www.etstur.com/) as a Front-end Developer
+- 📫 You can contact me at [contact@aktasalper.com](mailto:contact@aktasalper.com)
