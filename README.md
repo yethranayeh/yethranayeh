@@ -1,5 +1,5 @@
 # Hello 👋
-I am Alper, a 23 year old English Language and Literature graduate 📚 interested in software development 💻
+I am Alper, an English Language and Literature graduate 📚 interested in software development 💻
 
 
 <p align="center">
