@@ -1,16 +1,16 @@
 # Hello 👋
-I am Alper, an English Language and Literature graduate 📚 interested in software development 💻
+I am Alper, an English Language and Literature graduate 📚 currently working at Etstur as a Frontend Developer 💻
 
 
 <p align="center">
 <a href="https://github.com/yethranayeh/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="45%" alt="yethranayeh GitHub profile stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="45%" alt="Alper Aktaş GitHub profile stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yethranayeh/">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="yethranayeh top languages" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="Alper Aktaş top languages" />
   </a>
 </p>
 
@@ -19,9 +19,20 @@ I am mainly interested in working with:
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-As a self-taught developer, I try to get better at technologies that I am interested in by taking online courses 📚 and building projects 👨‍💻
+As a self-taught developer, I try to get better at technologies that I am interested in by building small hobby projects in my free time 👨‍💻
 
 ---
+
+<p align="center">
+  <a href="https://exaltrates.trade" target="_blank">Exalt Rates</a>
+  (<a href="https://github.com/yethranayeh/ExaltRates" target="_blank">Repo</a>)
+  <br/>
+  Exalt Rates is a Path of Exile 2 currency calculator that lets you quickly and easily convert one currency to another.
+  <br/><br/>
+  <img src="https://i.imgur.com/BKDTUgp.png" alt="Exalt Rates Screenshot" />
+</p>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://www.aktasalper.com/weather-app/" target="_blank">Weather App</a>
@@ -41,17 +52,6 @@ As a self-taught developer, I try to get better at technologies that I am intere
   One of my favorite projects that I developed is Daily Space Palette, a simple web project that fetches the Astronomy Picture of the Day using NASA's API, then generates a color palette from that picture's colors.
   <br/><br/>
   <img src="https://i.ibb.co/rZpX39B/Screenshot-2021-11-14-at-16-20-25-Daily-Space-Palette.png" alt="Daily Space Palette App Banner" />
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://www.aktasalper.com/weather-app/" target="_blank">ideaList</a>
-  (<a href="https://github.com/yethranayeh/ideaList" target="_blank">Repo</a>)
-  <br/>
-  IdeaList is a to-do list web application that is designed with a mobile first approach 📱
-  <br/><br/>
-  <img src="https://i.ibb.co/3sSmtdx/cover.png" alt="ideaList To-Do App Image" />
 </p>
 
 ---
