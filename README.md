@@ -1,24 +1,5 @@
 # Hello 👋
 I am Alper, an English Language and Literature graduate 📚 currently working at Etstur as a Frontend Developer 💻
-
-
-<p align="center">
-<a href="https://github.com/yethranayeh/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="45%" alt="Alper Aktaş GitHub profile stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yethranayeh/">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="Alper Aktaş top languages" />
-  </a>
-</p>
-
-
-I am mainly interested in working with:
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 As a self-taught developer, I try to get better at technologies that I am interested in by building small hobby projects in my free time 👨‍💻
 
 ---
@@ -52,6 +33,20 @@ As a self-taught developer, I try to get better at technologies that I am intere
   One of my favorite projects that I developed is Daily Space Palette, a simple web project that fetches the Astronomy Picture of the Day using NASA's API, then generates a color palette from that picture's colors.
   <br/><br/>
   <img src="https://i.ibb.co/rZpX39B/Screenshot-2021-11-14-at-16-20-25-Daily-Space-Palette.png" alt="Daily Space Palette App Banner" />
+</p>
+
+---
+
+<p align="center">
+<a href="https://github.com/yethranayeh/">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=yethranayeh&theme=synthwave&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="45%" alt="Alper Aktaş GitHub profile stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yethranayeh/">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethranayeh&hide=liquid,html&layout=compact&theme=synthwave&langs_count=4" width="45%" alt="Alper Aktaş top languages" />
+  </a>
 </p>
 
 ---
