@@ -16,23 +16,25 @@ As a self-taught developer, I try to get better at technologies that I am intere
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.aktasalper.com/weather-app/" target="_blank">Weather App</a>
-  (<a href="https://github.com/yethranayeh/weather-app" target="_blank">Repo</a>)
-  <br/>
-  Weather App is a React application that I built using OpenWeatherMap API. It can display weather based on geolocation or user's search query.
-  <br/><br/>
-  <img src="https://i.ibb.co/zsFkp5d/Screen-Shot-2022-05-23-at-14-48-03.jpg" alt="Weather App Screenshot" />
-</p>
-
-<br/><br/>
-
-<p align="center">
   <a href="https://www.aktasalper.com/daily-space-palette/" target="_blank">Daily Space Palette</a>
   (<a href="https://github.com/yethranayeh/daily-space-palette" target="_blank">Repo</a>)
   <br/>
   One of my favorite projects that I developed is Daily Space Palette, a simple web project that fetches the Astronomy Picture of the Day using NASA's API, then generates a color palette from that picture's colors.
   <br/><br/>
   <img src="https://i.ibb.co/rZpX39B/Screenshot-2021-11-14-at-16-20-25-Daily-Space-Palette.png" alt="Daily Space Palette App Banner" />
+</p>
+
+<br/><br/>
+
+<p align="center">
+  <a href="[https://www.aktasalper.com/weather-app/](https://www.aktasalper.com/ideaList/)" target="_blank">ideaList</a>
+  (<a href="https://github.com/yethranayeh/ideaList" target="_blank">Repo</a>)
+  <br/>
+  IdeaList is a to-do list web application that is designed with a mobile first approach 📱
+  <br/>
+  It was the first "completed" project I had built while learning JavaScript from YouTube videos. With the knowledge and experience I had at the time, I think it still came out pretty well. It also works as a PWA! So, you can add it to your home screen on your phone and use it in standalone mode like a native app! 
+  <br/><br/>
+  <img src="https://i.ibb.co/3sSmtdx/cover.png" alt="ideaList To-Do App Image" />
 </p>
 
 ---
