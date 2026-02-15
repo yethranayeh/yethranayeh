@@ -5,12 +5,12 @@ Though I mainly work as a frontend developer in professional settings, I try to 
 ---
 
 <p align="center">
-  <a href="https://spacepalette.design/" target="_blank">Daily Space Palette</a>
+  <a href="https://daily-space-palette.vercel.app/" target="_blank">Daily Space Palette</a>
   (<a href="https://github.com/yethranayeh/daily-space-palette" target="_blank">Repo</a>)
   <br/>
   One of my favorite projects that I worked on is Daily Space Palette, a simple web project that fetches the Astronomy Picture of the Day using NASA's API, then generates a color palette from that picture's colors.
   <br/><br/>
-  <img src="https://i.imgur.com/jLmWChw.jpeg" alt="Daily Space Palette Web page" />
+  <a href="https://daily-space-palette.vercel.app/" target="_blank"><img src="https://i.imgur.com/eaWYwCP.jpeg" alt="Daily Space Palette Web page" /></a>
 </p>
 
 <br/><br/>
