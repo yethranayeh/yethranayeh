@@ -21,7 +21,7 @@ Though I mainly work as a frontend developer in professional settings, I try to 
   <br/>
   One of my favorite projects to have built is Shades of Space, a simple web project that fetches the Astronomy Picture of the Day using NASA's API, then generates a color palette from that picture's colors.
   <br/><br/>
-  <a href="https://shadesof.space/" target="_blank"><img src="https://i.imgur.com/vEVx1tG.png" alt="Shades of Space Web page" /></a>
+  <a href="https://shadesof.space/" target="_blank"><img src="https://www.shadesof.space/opengraph-image" alt="Shades of Space Web page" /></a>
 </p>
 
 ---
