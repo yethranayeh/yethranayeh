@@ -5,8 +5,8 @@ Though I mainly work as a frontend developer in professional settings, I try to 
 ---
 
 <p align="center">
-  <a href="https://sarmal.art" target="_blank">Exalt Rates</a>
-  (<a href="https://github.com/yethranayeh/ExaltRates" target="_blank">Repo</a>)
+  <a href="https://sarmal.art" target="_blank">Sarmal</a>
+  (<a href="https://github.com/yethranayeh/sarmal" target="_blank">Repo</a>)
   <br/>
   A lightweight library for rendering elegant parametric and drawn curve animations
   <br/><br/>
