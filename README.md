@@ -5,6 +5,16 @@ Though I mainly work as a frontend developer in professional settings, I try to 
 ---
 
 <p align="center">
+  <a href="https://playertype.gg/" target="_blank">Sarmal</a>
+  <br/>
+  A interactable map of games with Micro/Meso/Macro playstyle categorizations
+  <br/><br/>
+  <a href="https://playertype.gg/" target="_blank"><img src="https://i.imgur.com/dyAnD7j.jpeg" alt="Player Type page" /></a>
+</p>
+
+<br/><br/>
+
+<p align="center">
   <a href="https://sarmal.art" target="_blank">Sarmal</a>
   (<a href="https://github.com/yethranayeh/sarmal" target="_blank">Repo</a>)
   <br/>
