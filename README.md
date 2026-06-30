@@ -5,7 +5,7 @@ Though I mainly work as a frontend developer in professional settings, I try to 
 ---
 
 <p align="center">
-  <a href="https://playertype.gg/" target="_blank">Sarmal</a>
+  <a href="https://playertype.gg/" target="_blank">playertype.gg</a>
   <br/>
   A interactable map of games with Micro/Meso/Macro playstyle categorizations
   <br/><br/>
