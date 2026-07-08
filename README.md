@@ -1,6 +1,6 @@
 # Hællo
-I am a self-taught developer who enjoys talking to machines and making them do things just by speaking their language!
-Though I mainly work as a frontend developer in professional settings, I try to partake in any kind of software development that I find interesting.
+I am a self-taught developer who enjoys talking to machines and making them do things.
+Though I initially started out as a frontend leaning developer in professional settings, I try to partake in any kind of software development that I find interesting.
 
 ---
 
