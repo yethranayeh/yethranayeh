@@ -7,7 +7,7 @@ Though I initially started out as a frontend leaning developer in professional s
 <p align="center">
   <a href="https://playertype.gg/" target="_blank">playertype.gg</a>
   <br/>
-  A interactable map of games with Micro/Meso/Macro playstyle categorizations
+  Find your player type across Micro, Meso and Macro. An interactive map of 370 games, a quiz, and a Steam library reading.
   <br/><br/>
   <a href="https://playertype.gg/" target="_blank"><img src="https://i.imgur.com/dyAnD7j.jpeg" alt="Player Type page" /></a>
 </p>
