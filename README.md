@@ -1,7 +1,7 @@
 # Hællo
 
 I am a self-taught developer who enjoys talking to machines and making them do things.
-Though I initially started out as a frontend leaning developer in professional settings, I try to partake in any kind of software development that I find interesting.
+Though I initially started out as a frontend developer, nowadays I try to partake in any kind of software project that I find interesting.
 
 [Explore my portfolio](https://www.aktasalper.com/)
 
