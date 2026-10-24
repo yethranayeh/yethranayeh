@@ -3,6 +3,8 @@
 I am a self-taught developer who enjoys talking to machines and making them do things.
 Though I initially started out as a frontend developer, nowadays I try to partake in any kind of software project that I find interesting.
 
+I used to read documentation and write code, but now I write documentation and read code.
+
 [Explore my portfolio](https://www.aktasalper.com/)
 
 ---
